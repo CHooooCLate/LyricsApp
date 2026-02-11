@@ -1,0 +1,25 @@
+# Xcode
+#
+build/
+DerivedData/
+*.hmap
+*.ipa
+*.playground
+
+# User specific
+#
+xcuserdata/
+*.xcuserstate
+
+# Swift Package Manager
+#
+.build/
+.swiftpm/
+
+# CocoaPods
+#
+Pods/
+
+# macOS
+#
+.DS_Store
